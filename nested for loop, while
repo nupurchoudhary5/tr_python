@@ -1,0 +1,20 @@
+lst = [1, 2, 3, 4, 5, 6, 6, 7, 8, 4, 10]
+fname = 'Nupur'
+
+for i in [1, 2, 3]:
+    for j in ['a', 'b', 'c']:
+        print(i, j)
+
+
+
+
+#while loop
+i=0
+while i < 5:
+    print(i)
+    i+=1 #i = i + 1
+
+
+
+
+    
